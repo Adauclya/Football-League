@@ -1,0 +1,25 @@
+{
+    "name": "League Football App",
+    "short_name": "LeagueApp",
+    "description": "More Information about football",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#191919",
+    "icons": [
+      {
+        "src": "icon-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "gcm_sender_id": "633108641561"
+  }
+  
+  
+  
