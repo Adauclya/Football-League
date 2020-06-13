@@ -8,7 +8,7 @@
 .responsive-img{
     width: 100%;
     height: 750px;
-    background-image: url('../img/ban4.jpg');
+    background-image: url('./img/ban4.jpg');
     background-size:cover;
     background-repeat: no-repeat;
     z-index: 9999;
